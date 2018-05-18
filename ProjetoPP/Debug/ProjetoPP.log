@@ -1,0 +1,3 @@
+﻿  MenuPrincipal.c
+c:\users\tulio\source\repos\projetopp\projetopp\menuprincipal.c(110): warning C4013: 'getch' indefinido; assumindo extern retornando int
+  ProjetoPP.vcxproj -> C:\Users\tulio\source\repos\ProjetoPP\Debug\ProjetoPP.exe
